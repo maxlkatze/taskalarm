@@ -1,15 +1,8 @@
-<p align="center"><img src="docs/hero.png" alt="TaskAlarm — the to-do list that cheers you on"></p>
+<p align="center"><img src="docs/hero.png" alt="TaskAlarm"></p>
 
 <h1 align="center">TaskAlarm</h1>
 
-<p align="center"><b>The to-do list that cheers you on.</b><br>
-A tiny macOS menu bar app with a smiley that keeps you going: natural-language reminders, warm sounds, zero nagging.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/macOS-14%2B-7C5CFF?style=flat-square" alt="macOS 14+">
-  <img src="https://img.shields.io/badge/Swift-SwiftUI-FFB020?style=flat-square" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-universal-34C77B?style=flat-square" alt="Universal">
-</p>
+<p align="center">The to-do list that cheers you on.</p>
 
 ## Install
 
@@ -47,8 +40,6 @@ menu bar. Prefer building it yourself? Add `-s -- --source` to the end of that c
    or **Remind in…** 5–30 minutes.
 3. **Missed**: after a 5-minute grace period it turns red, plays a soft *ding-dong* alarm, shakes,
    and repeats every few minutes until handled.
-
-<p align="center"><img src="docs/screens.png" alt="Settings, reminder card and task page"></p>
 
 ## The smiley
 
